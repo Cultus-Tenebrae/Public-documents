@@ -9,4 +9,4 @@
 
 Дата составления: 21.04.2025.
 
-Copyright © Cultus Tenebrae
+Copyright &copy; Cultus Tenebrae
